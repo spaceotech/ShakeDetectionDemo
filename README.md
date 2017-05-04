@@ -1,6 +1,6 @@
 # ShakeDetectionDemo
 
-*Android Accelerometer* - We barely notice it, but it is one of the most important feature buried in the everyday smartphone experience.
+# Android Accelerometer - We barely notice it, but it is one of the most important feature buried in the everyday smartphone experience.
 
 Before the arrival of smartphones, keyboard was one of the few hardware components was used for interaction. Now, the times have changed and interacting with hardware has become more common.
 
